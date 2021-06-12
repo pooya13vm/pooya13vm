@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pooya13vm
+- 👋 Hi, I’m pooya
 - 👀 I’m interested in web and app development (react native)
 - 🌱 I’m currently learning backend development
 
