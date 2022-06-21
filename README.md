@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pooya
 - 👀 I’m interested in web and app development (react native)
-- 🌱 I’m currently learning backend development
+- 🌱 I’m a MERN fullstack web developer
 
 - 📫 How to reach me : whatsapp 05368146944
 
