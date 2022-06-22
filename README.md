@@ -2,7 +2,9 @@
 - 👀 I’m interested in web and app development (react native)
 - 🌱 I’m a MERN fullstack web developer
 
-- 📫 How to reach me : whatsapp 05368146944
+- 📫 contact : whatsapp 05368146944
+-  Email : contact@pooyav.com
+-  www.pooyav.com
 
 <!---
 pooya13vm/pooya13vm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
