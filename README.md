@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pooya
-- 👀 I’m interested in web and app development (react native)
-- 🌱 I’m a MERN fullstack web developer
+-  I’m interested in web and app development (react native)
+-  I’m a MERN fullstack web developer
 
 - 📫 contact : whatsapp 05368146944
 -  Email : contact@pooyav.com
