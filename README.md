@@ -3,7 +3,7 @@
 -  I’m a MERN fullstack web developer
 
 - 📫 contact : whatsapp 05368146944
--  Email : vaghef.pooya@gamil.com
+-  Email : vaghef.pooya@gmail.com
 -  www.pooyavaghef.com
 
 <!---
